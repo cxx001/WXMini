@@ -7,7 +7,7 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   max-width: 50vw;
-  color: #999;
+  color: #c4c4c4;
 }
 .container {
   height: 100vh;
@@ -15,7 +15,7 @@
 }
 .container .info-card {
   display: flex;
-  padding: 32rpx;
+  padding: 56rpx 32rpx 32rpx;
   background-color: #fff;
 }
 .container .info-card .avatar {
@@ -31,7 +31,7 @@
 }
 .container .info-card .basic .user-id {
   font-size: 24rpx;
-  color: #999;
+  color: #c4c4c4;
 }
 .container .action-list {
   position: fixed;
@@ -71,7 +71,7 @@
   height: 32rpx;
   line-height: 32rpx;
   border-radius: 16rpx;
-  font-size: 20rpx;
+  font-size: 16rpx;
   color: #fff;
   background-color: #fb5250;
 }

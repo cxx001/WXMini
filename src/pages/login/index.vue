@@ -29,8 +29,8 @@ export default {
   data () {
     return {
       password: '',
-      userIDList: new Array(30).fill().map((item, idx) => ('user' + idx)),
-      selectedIndex: 1,
+      userIDList: new Array(1).fill().map((item, idx) => ('administrator')),
+      selectedIndex: 0,
       loading: false
     }
   },

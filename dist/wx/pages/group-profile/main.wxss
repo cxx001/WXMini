@@ -1,7 +1,4 @@
 
-.add-member-modal-on-focus {
-  transform: translateY(-140rpx);
-}
 .group-detail-wrapper {
   height: 100vh;
   background-color: #ededed;
@@ -53,7 +50,7 @@
   margin: 24rpx auto;
   width: 80%;
   padding: 0 24rpx;
-  border-bottom: 2rpx solid #f1f1f1;
+  border-bottom: 2rpx solid #c4c4c4;
 }
 .cell-value {
   color: #c4c4c4 !important;

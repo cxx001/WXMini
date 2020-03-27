@@ -1,8 +1,8 @@
 /*eslint-disable*/
 import LibGenerateTestUserSig from './lib-generate-test-usersig-es.min.js'
 
-const _SDKAPPID = 0;
-const _SECRETKEY = '';
+const _SDKAPPID = 1400340058;
+const _SECRETKEY = 'dba148fcf28eda660b95a805f8492565be9f371ecbab34db45efd52a3cdf2aec';
 /*
  * Module:   GenerateTestUserSig
  *

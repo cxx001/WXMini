@@ -1,16 +1,17 @@
 
-.update-profile-wrapper.data-v-290a70ef {
+.update-profile-wrapper.data-v-ca4ff352 {
   height: 100vh;
   padding: 24rpx;
+  background-color: #ededed;
 }
-.update-profile-wrapper .input.data-v-290a70ef {
+.update-profile-wrapper .input.data-v-ca4ff352 {
   padding: 24rpx;
-  border-bottom: 2rpx solid #f1f1f1;
+  border-bottom: 2rpx solid #c4c4c4;
 }
-.update-profile-wrapper .input-focus.data-v-290a70ef {
+.update-profile-wrapper .input-focus.data-v-ca4ff352 {
   border-bottom: 2rpx solid #006fff;
 }
-.update-profile-wrapper ._button.data-v-290a70ef {
+.update-profile-wrapper ._button.data-v-ca4ff352 {
   margin-top: 48rpx;
   color: #fff;
   background-color: #006fff;
